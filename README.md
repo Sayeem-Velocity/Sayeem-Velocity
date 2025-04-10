@@ -1,7 +1,10 @@
-(https://media.licdn.com/dms/image/v2/D5616AQG2RvVDydyO6w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1708796810914?e=1749686400&v=beta&t=_V1XxNOulGSafq2rJwchhFKbxgM76AwTrBeE_0Krk9s)
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQG2RvVDydyO6w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1708796810914?e=1749686400&v=beta&t=_V1XxNOulGSafq2rJwchhFKbxgM76AwTrBeE_0Krk9s" alt="banner" style="width:100%; max-height:300px; object-fit:cover;">
+</p>
 
 <h1>Hi 👋, I'm Sayeem</h1>
 <p>I'm a machine learning and research enthusiast</p>
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
@@ -17,9 +20,13 @@
 <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
+
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/https://x.com/Sayeem73533208" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/s-m-shahriar-56a263178/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p>
+<a target="_blank" href="https://x.com/Sayeem73533208" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/s-m-shahriar-56a263178/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+</p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sayeem-Velocity&show_icons=true&locale=en" alt="Sayeem-Velocity" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sayeem-Velocity&" alt="Sayeem-Velocity" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sayeem-Velocity&show_icons=true&locale=en&layout=compact" alt="Sayeem-Velocity" /></p>
