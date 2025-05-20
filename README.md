@@ -81,16 +81,16 @@
 
 ---
 
-<h2 align="center">✨ Random Dev Quote</h2>
+<h2 align="center">AI Quote</h2>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
+  <em>"Artificial Intelligence is not about replacing humans — it's about amplifying human potential."</em>
 </p>
 
 ---
 
-<h2 align="center">🔝 Top Contributed Repos</h2>
+<h2 align="center">🔝 Top Contributed Repositories</h2>
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Sayeem-Velocity&limit=5&theme=vue&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Sayeem-Velocity&limit=5&theme=vue&combine_all_yearly_contributions=true" style="width: 100%;" />
 </p>
 
 ---
