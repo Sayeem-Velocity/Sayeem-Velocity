@@ -81,16 +81,16 @@
 
 ---
 
-<h2 align="center">AI Quote</h2>
+<h2 align="center">🤖 AI Quote</h2>
 <p align="center">
-  <em>"Artificial Intelligence is not about replacing humans — it's about amplifying human potential."</em>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence%20is%20not%20about%20replacing%20humans%20—%20it's%20about%20amplifying%20human%20potential.-black?style=for-the-badge&labelColor=0D1117&color=brightgreen" />
 </p>
 
 ---
 
 <h2 align="center">🔝 Top Contributed Repositories</h2>
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Sayeem-Velocity&limit=5&theme=vue&combine_all_yearly_contributions=true" style="width: 100%;" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Sayeem-Velocity&limit=5&theme=vue&combine_all_yearly_contributions=true" />
 </p>
 
 ---
