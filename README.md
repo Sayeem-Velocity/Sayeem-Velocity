@@ -72,9 +72,9 @@
 
 ---
 
-<h2 align="center">🤖 AI Quote</h2>
+<h2 align="center">✨ A Dev Quote</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence%20is%20not%20about%20replacing%20humans%20—%20it's%20about%20amplifying%20human%20potential.-black?style=for-the-badge&labelColor=0D1117&color=brightgreen" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
 </p>
 
 ---
