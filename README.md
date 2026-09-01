@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm <span style="color:#007acc">Shahriar</span>!</h1>
-<h3 align="center">Jr. AI Engineer @ Delineate (YC W25) | AI/LLM Researcher</h3>
+<h3 align="center">Jr. AI Engineer @Delineate (YC W25) | Scaling cost-optimized extraction & LLM Infra | LVLM · Agentic AI · vLLM · AWS</h3>
 <p align="center">Passionate about <strong>Machine Learning</strong> & <strong>AI Research</strong>, building intelligent systems that scale from research to production.</p>
 
 ---
